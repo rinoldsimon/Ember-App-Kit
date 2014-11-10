@@ -2,9 +2,7 @@
   <h1>{{name}}</h1>
   <div class="clear"></div>
   <h3>{{email}}</h3>
-  <div class="notes">
-    {{number}}
-  </div>
+  <h3>{{number}}</h3>
   <div class="controls">
     {{#link-to 'contacts.edit' this class='btn'}}Edit{{/link-to}}
     <button type="button" class="btn red" {{action 'deleteContact'}}>Delete</button>

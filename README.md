@@ -14,6 +14,8 @@ starting the server
 ===================
 
  * `cd contact-server`
+ * `bundle install`
+ * `rake db:migrate`
  * `rails server or rails s`
  
 starting the client

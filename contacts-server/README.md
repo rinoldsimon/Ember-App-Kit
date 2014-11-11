@@ -1,1 +1,1 @@
-This is the server component of an example app built using Ember App Kit, Ember Data 1.0.0-Beta, and Rails API. You can also check out the [Ember code](https://github.com/rinoldsimon/Ember-App-Kit/contacts-client), and the actual [demo]().
+This is the server component of an example app built using Ember App Kit, Ember Data 1.0.0-Beta, and Rails API. You can also check out the [Ember code](https://github.com/rinoldsimon/Ember-App-Kit/tree/master/contacts-client), and the actual [demo]().

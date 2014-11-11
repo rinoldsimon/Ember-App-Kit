@@ -14,6 +14,8 @@ starting the server
 ===================
 
  * `cd contact-server`
+ * `bundle install`
+ * `rake db:migrate`
  * `rails server or rails s`
  
 starting the client
@@ -21,14 +23,14 @@ starting the client
 
  * `cd contact-client`
  
- We are going to need the Grunt command line tool, as well as Bower, to get up and running. Make sure you have      Node  installed, then:
+We need the Grunt command line tool, as well as Bower, to get up and running. Make sure you have      Node  installed, then:
  
 ```
  npm install -g grunt-cli
  npm install -g bower
 ```
 
- Once those are both installed, we need to install the project’s dependencies:
+Once those are both installed, we need to install the project’s dependencies:
  
 ```
  npm install
@@ -41,4 +43,4 @@ starting the client
 
 #### Switch to:
 
- localhost:8000
+localhost:8000

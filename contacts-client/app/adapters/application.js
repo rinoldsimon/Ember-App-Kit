@@ -1,5 +1,5 @@
 var ApplicationAdapter = DS.RESTAdapter.extend({
-   host: 'https://ember-contact-server.herokuapp.com'
+   host: 'http://localhost:3000'
 });
  
 export default ApplicationAdapter;
